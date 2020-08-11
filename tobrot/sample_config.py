@@ -28,7 +28,7 @@ class Config(object):
     # default thumbnail to be used in the videos
     DEF_THUMB_NAIL_VID_S = get_config(
         "DEF_THUMB_NAIL_VID_S",
-        "https://telegra.ph/file/8b973b270f4f380a427b1.png"
+        "https://placehold.it/90x90"
     )
     # maximum message length in Telegram
     MAX_MESSAGE_LENGTH = int(get_config(
