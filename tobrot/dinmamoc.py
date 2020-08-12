@@ -36,7 +36,7 @@ class Commandi:
     )
     CANCEL = get_config(
         "COMMANDI_CANCEL",
-        "cancel@MahadevKiJai_Bot"
+        "cancel"
     )
     EXEC = get_config(
         "COMMANDI_EXEC",
